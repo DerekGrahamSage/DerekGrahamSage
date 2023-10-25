@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [the new Std PE ](https://github.com/Sage/sage200uki-std-pe)
+
 <!--
 **DerekGrahamSage/DerekGrahamSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
