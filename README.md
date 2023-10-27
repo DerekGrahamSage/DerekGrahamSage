@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [the new Std PE ](https://github.com/Sage/sage200uki-std-pe)
+- 🔭 I’m currently working on [the new Std PE ](https://github.com/Sage/sage200uki-std-pe) [![.NET](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml)
 
 <!--
 **DerekGrahamSage/DerekGrahamSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
