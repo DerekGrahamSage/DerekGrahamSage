@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [the new Std PE](https://github.com/Sage/sage200uki-std-pe) current build status: [![.NET](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml)
+- 🔭 I’m currently working on [some secret stuff](https://github.com/Sage-Active/service-teams-copilot-bff)
+
+I used to work on:
+- [the new Std PE](https://github.com/Sage/sage200uki-std-pe) current build status: [![.NET](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Sage/sage200uki-std-pe/actions/workflows/dotnet.yml)
 
 - Also [the new Std Background Worker](https://github.com/Sage/sage200uki-std-bw)
 - The [Sage 200 Std Dependencies Repo](https://github.com/Sage/Sage200StdUKI)
